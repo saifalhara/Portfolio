@@ -1,0 +1,80 @@
+{
+  "name": "Saif Omar Al-Hara",
+  "title": "Software Engineer",
+  "email": "saifalharah@gmail.com",
+  "phone": "00966535466952",
+  "location": "Saudi Arabia (Riyadh)",
+  "photo": "/myimage.jpg",
+  "links": {
+    "github": "https://github.com/Saifalhara",
+    "linkedin": "https://www.linkedin.com/in/saif-omar/",
+    "whatsapp": "https://wa.me/962792864190"
+  },
+  "summary": "Enthusiastic and skilled Software Engineer specializing in ASP.NET development, eager to apply a strong academic foundation and practical experience to new challenges. Adept at problem-solving and collaborative teamwork, passionate about crafting efficient and scalable software solutions.",
+  "skills": [
+    {
+      "category": "Languages",
+      "items": ["C#", "C++", "Java", "Python", "JavaScript"]
+    },
+    {
+      "category": "Frameworks & Platforms",
+      "items": ["ASP.NET Core 8", "Blazor", "Spring MVC", "Spring Boot", "PHP (Laravel)"]
+    },
+    {
+      "category": "Data & ORMs",
+      "items": ["Entity Framework Core", "ADO.NET", "JPA", "SQL Server", "MySQL", "PostgreSQL", "APEX DB"]
+    },
+    {
+      "category": "Practices & Tools",
+      "items": ["REST APIs", "CI/CD", "Dependency Injection", "Async programming", "Clean Architecture", "Git/GitHub", "Agile (Scrum)", "JUnit", "OOP"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Arabia Insurance Cooperative Company (AICC)",
+      "role": "Software Engineer",
+      "period": "09/2025 — Present",
+      "description": "Develop and maintain enterprise insurance systems using ASP.NET Core 8 and Blazor, designing RESTful APIs and managing integrations.",
+      "bullets": [
+        "Develop and maintain insurance systems with ASP.NET Core 8 and Blazor",
+        "Design RESTful APIs and integrate with payment gateways, government services, and internal platforms",
+        "Utilize Entity Framework Core, ADO.NET, and SQL Server; write optimized stored procedures and queries",
+        "Deploy and configure applications on IIS; ensure high availability and performance",
+        "Implement CI/CD pipelines to automate build, test, and deployment",
+        "Apply clean architecture, dependency injection, and async programming for scalable code",
+        "Collaborate with QA, Business Analysts, and Operations to deliver secure, user‑friendly solutions",
+        "Monitor, troubleshoot, and optimize performance, logging, and error handling"
+      ]
+    },
+    {
+      "company": "Binary Digits",
+      "role": "Software Engineer",
+      "period": "02/2024 — 08/2025",
+      "description": "Designed and maintained web applications using ASP.NET Core 8 and Entity Framework Core with clean, scalable architecture.",
+      "bullets": [
+        "Implemented RESTful APIs and HTTP Client communication for internal integrations",
+        "Built responsive front‑end components using SyncFusion Blazor",
+        "Managed complex database operations via ADO.NET and SQL Server (procedures, functions, queries)",
+        "Applied DI, Repository Pattern, and async programming for maintainability and performance",
+        "Published and maintained apps on production servers; monitored performance and logs",
+        "Collaborated using Git and agile practices; emphasized security, validation, and robust error handling"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "HashBus",
+      "description": "A multi-app system to streamline university bus transportation: student Android app for ticket reservation and journey planning with live tracking; driver Android app for schedules, routes, and location updates; organizer web app to manage routes and users; admin dashboard for system data; Spring Boot REST APIs powering all apps. Built for scalability and efficiency to reduce congestion and improve travel times (Oct 2023 – Dec 2023).",
+      "tags": ["Spring Boot", "Android (Java)", "Google Cloud", "Bootstrap", "JWT", "MySQL"]
+    }
+  ],
+  "education": [
+    {
+      "school": "Hashemite University",
+      "degree": "Bachelor’s Degree in Software Engineering",
+      "period": "10/2020 — 01/2024",
+      "details": "Zarqa, Amman"
+    }
+  ]
+}
+

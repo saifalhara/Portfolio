@@ -1,0 +1,2 @@
+Put static files here (e.g., resume.pdf for download).
+

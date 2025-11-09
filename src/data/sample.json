@@ -1,0 +1,57 @@
+{
+  "name": "Saif Omar Al-Hara",
+  "title": "Software Engineer",
+  "summary": "Software engineer with a focus on building reliable, performant web apps and delightful user experiences.",
+  "location": "Your City, Country",
+  "email": "you@example.com",
+  "phone": "+0000000000",
+  "links": {
+    "github": "https://github.com/your-handle",
+    "linkedin": "https://www.linkedin.com/in/your-handle/"
+  },
+  "skills": [
+    { "category": "Languages", "items": ["JavaScript", "TypeScript", "Python"] },
+    { "category": "Frontend", "items": ["React", "Next.js", "Tailwind CSS", "Framer Motion"] },
+    { "category": "Backend", "items": ["Node.js", "Express", "REST APIs"] },
+    { "category": "Tools", "items": ["Git", "Docker", "Vite"] }
+  ],
+  "experience": [
+    {
+      "company": "Company A",
+      "role": "Frontend Engineer",
+      "period": "2023 — Present",
+      "description": "Led development of modern frontend features with React and TypeScript.",
+      "bullets": [
+        "Built accessible, responsive UI components and animations",
+        "Improved performance with code-splitting and memoization"
+      ]
+    },
+    {
+      "company": "Company B",
+      "role": "Software Engineer",
+      "period": "2021 — 2023",
+      "description": "Delivered full-stack features across frontend and backend.",
+      "bullets": [
+        "Developed APIs and integrated with React frontend",
+        "Collaborated with design and product teams"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Project Alpha",
+      "description": "A modern web application showcasing best practices and animations.",
+      "link": "https://example.com",
+      "tags": ["React", "TypeScript", "Tailwind"]
+    },
+    {
+      "name": "Project Beta",
+      "description": "Performance-focused app with smooth interactions.",
+      "tags": ["Vite", "Framer Motion"]
+    }
+  ],
+  "education": [
+    { "school": "Your University", "degree": "B.Sc. in Computer Science", "period": "2017 — 2021" }
+  ]
+}
+
